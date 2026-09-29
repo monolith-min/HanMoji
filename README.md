@@ -217,4 +217,4 @@ docs/                             데모 GIF
 
 ## 라이선스
 
-아직 정하지 않았습니다. 이모지 데이터는 [Unicode License](https://www.unicode.org/license.txt)를 따르는 Unicode CLDR과 emoji-test.txt에서 생성했습니다.
+[MIT License](LICENSE). 이모지 데이터(`emoji.json`)는 [Unicode License](https://www.unicode.org/license.txt)를 따르는 Unicode CLDR과 emoji-test.txt에서 생성했습니다.
